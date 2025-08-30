@@ -536,7 +536,7 @@ const projectsData = [
         description: "Полная адаптивная верстка сайта по макету от Яндекс с использованием только чистых HTML, CSS, JS. Дополнен анимациями.",
         image: "site-club.png",
         category: "Веб-сайт",
-        link: "https://ninapaleha.github.io/"
+        link: "https://ninapaleha.github.io/TheFourHorsesClub/"
     },
     {
         title: "Конференция перекупов",
